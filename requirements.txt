@@ -1,0 +1,13 @@
+# This is the requirements.txt file for my final year project. This is essential for making this project
+# recreatable and understandable to know what everything is used for. 
+# This file serves the purpose of keeping track of and categorising every independency needed for this project
+# This file will be separated into different categories for each type of dependency e.g deep learning and 
+
+# Data preproccessing
+yt-dlp
+pandas
+numpy
+scikit-learn
+openpyxl
+
+#React-JS Frontend
